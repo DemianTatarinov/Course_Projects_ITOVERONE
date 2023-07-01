@@ -4,115 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7da370b0-2cee-49a8-b3ac-f5f63514c7e3" name="Changes" comment="Изменили 2 файла">
-      <change afterPath="$PROJECT_DIR$/Dz/Dz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_txt/Dz_20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_txt/Dz_20_txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_txt/Dz_21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/Dz_txt/Dz_21_txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/calc_Dz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/calc_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/casino_Dz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/input" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/repka/rend.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz/repka/repka.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dict/dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dict/dict_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dict/using_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/for/for_1_Dz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/for/for_cycle_Dz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/func_param.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/function_decore.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/function_factorial_lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/function_oblast_vidimosti.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/function_parametr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/function_practic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/function_practic_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/function_practic_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if/if_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if/if_Dz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/input_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/exqmple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/exqmple_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/exqmple_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/exqmple_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/exqmple_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/exqmple_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/incap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/nasledie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/nasledie_mnojestven.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/nasledie_mnojestven_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/polim.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/polim_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/peremen/peremen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practica/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practica/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practica/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practica/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practica/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practica/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practica/7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practica/8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practica/9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practica/z_2.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practica/z_3.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pygame/snake_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5 /calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/set/set_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/set/set_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spiski/spis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spiski/spis_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spiski/spis_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spiski/spis_Dz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/name2.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/z_1.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/telegram/bot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/telegram/my_telegram_bot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/telegram/telegram_bot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuple/tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuple/tuple_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while/while.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repka.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repka_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dz/repka/repka_1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repka_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dz/repka/repka_2.txt" afterDir="false" />
-    </list>
+    <list default="true" id="7da370b0-2cee-49a8-b3ac-f5f63514c7e3" name="Changes" comment="Изменили 2 файла" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -142,16 +34,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/user/PycharmProjects/Prob&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/user/Проекты/PycharmProjects/Prob",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/practica" />

@@ -1,6 +1,7 @@
 import sys
 
 from PyQt5.QtWidgets import QWidget, QApplication, QLabel, QPushButton
+
 from PyQt5.QtGui import QFont, QPalette
 
 
